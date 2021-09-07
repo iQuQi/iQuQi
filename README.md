@@ -1,6 +1,6 @@
 ## 🌱 I’m currently learning ...
   <b>Front-End</b> : Html, CSS, JavaScript, React<br>
-  <b>Back-End</b> : Java, Spring
+  <b>Back-End</b> : Java, Spring, MySQL
   
 <!--
 - 🔭 I’m currently working on ...
