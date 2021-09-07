@@ -1,5 +1,5 @@
 ## 🌱 I’m currently learning ...
-  <b>Front-End</b> : Html, CSS, JavaScript<br>
+  <b>Front-End</b> : Html, CSS, JavaScript, React<br>
   <b>Back-End</b> : Java, Spring
   
 <!--
