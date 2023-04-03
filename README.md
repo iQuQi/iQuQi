@@ -58,7 +58,7 @@
 
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=iQuQi&show_icons=true">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iQuQi&show_icons=true">
 
 
 <br>
