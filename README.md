@@ -1,6 +1,20 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!✋%20I'm%20Yujin%20&fontSize=60" />	
 </div>
+
+<!--
+<div align=center>
+	<h3>👩🏻‍💻 Portfolio 👩🏻‍💻</h3>
+</div>
+<div align=center>
+	<a href="[https://www.notion.so/8d56437fa1c74d2d9c8d5b5e86bfd751](https://acidic-roundworm-3d2.notion.site/8d56437fa1c74d2d9c8d5b5e86bfd751)">
+		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+	</a>
+	<br/>
+</div>
+<br/><br/>
+-->
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Main Languages ✨</p>
@@ -44,26 +58,14 @@
   <img src="https://img.shields.io/badge/Blender-orange?style=flat-square&logo=Blender&logoColor=white" />
 </div>
 <br>
-<!--
-<div align=center>
-	<p>👩🏻‍💻 Portfolio</p>
-</div>
-<div align=center>
-	<a href="https://www.notion.so/8d56437fa1c74d2d9c8d5b5e86bfd751">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-	<br>
-</div>
--->
-
-<div align=center>
-	<br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iQuQi&show_icons=true">
 
 
-<br>
 <br/>
-<p>🏆 Baekjoon solved rank 🏆</p>
+
+<div align=center>
+	<h3>🏆 Baekjoon solved rank 🏆</h3>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kidscop99)](https://solved.ac/kidscop99)
 </div>
+</div>
+
