@@ -2,18 +2,16 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!✋%20I'm%20Yujin%20&fontSize=60" />	
 </div>
 
-<!--
 <div align=center>
 	<h3>👩🏻‍💻 Portfolio 👩🏻‍💻</h3>
 </div>
 <div align=center>
 	<a href="[https://www.notion.so/8d56437fa1c74d2d9c8d5b5e86bfd751](https://acidic-roundworm-3d2.notion.site/8d56437fa1c74d2d9c8d5b5e86bfd751)">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+		<img src="https://img.shields.io/badge/Portfolio-pink?style=flat-square&logo=Micro.blog&logoColor=white" />
 	</a>
 	<br/>
 </div>
 <br/><br/>
--->
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -51,7 +49,7 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-4d337b?style=flat-square&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/intelliJ-F8DC75?style=flat-square&logo=intelliJIDEA&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Xd-pink?style=flat-square&logo=XD&logoColor=white" />
+	<img src="https://img.shields.io/badge/Xd-B52074?style=flat-square&logo=XD&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jira-blue?style=flat-square&logo=Jira&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-809CC9?style=flat-square&logo=Notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
