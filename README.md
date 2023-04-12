@@ -27,21 +27,6 @@
 </div>
 <br>
 <div align=center>
-	<p> 🌸 Have used 🌸 </p>
-</div>
-<div align=center>
-	<img src="https://img.shields.io/badge/Python-2C2255?style=flat-square&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FF3633?style=flat-square&logo=Swift&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/C-F8DC75?style=flat-square&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-009639?style=flat-square&logo=c%2B%2B&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-232F3E?style=flat-square&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-red?style=flat-square&logo=AmazonAWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=Firebase&logoColor=white" />
-</div>
-<br>
-<div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
