@@ -26,21 +26,6 @@
 	<br>
 </div>
 <br>
-<div align=center>
-	<p>🛠 Tools 🛠</p>
-</div>
-<div align=center>
-	<img src="https://img.shields.io/badge/Git-deepGreen?style=flat-square&logo=git&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-4d337b?style=flat-square&logo=VisualStudioCode&logoColor=white" />
-  <img src="https://img.shields.io/badge/intelliJ-F8DC75?style=flat-square&logo=intelliJIDEA&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Xd-B52074?style=flat-square&logo=XD&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jira-blue?style=flat-square&logo=Jira&logoColor=white" />
-	<img src="https://img.shields.io/badge/Notion-809CC9?style=flat-square&logo=Notion&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-orange?style=flat-square&logo=Blender&logoColor=white" />
-</div>
-<br>
 
 
 <br/>
