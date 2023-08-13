@@ -6,7 +6,7 @@
 	<h3>👩🏻‍💻 Portfolio 👩🏻‍💻</h3>
 </div>
 <div align=center>
-	<a href="https://acidic-roundworm-3d2.notion.site/8d56437fa1c74d2d9c8d5b5e86bfd751">
+	<a href="https://acidic-roundworm-3d2.notion.site/8d56437fa1c74d2d9c8d5b5e86bfd751?pvs=4">
 		<img src="https://img.shields.io/badge/Portfolio-pink?style=flat-square&logo=Micro.blog&logoColor=white" />
 	</a>
 	<br/>
