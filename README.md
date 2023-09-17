@@ -6,7 +6,7 @@
 	<h3>👩🏻‍💻 Portfolio 👩🏻‍💻</h3>
 </div>
 <div align=center>
-	<a href="https://github.com/iQuQi/easyPlant/files/12616505/default.2._compressed.pdf">
+	<a href="https://github.com/iQuQi/easyPlant/files/12642226/_.pdf">
 		<img src="https://img.shields.io/badge/Portfolio-pink?style=flat-square&logo=Micro.blog&logoColor=white" />
 	</a>
 	<br/>
